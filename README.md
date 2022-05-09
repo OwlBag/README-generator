@@ -3,7 +3,7 @@
   ## Description
   This project generates a professional README file (like the one you're reading now!) from command-line user input
   
-  ![Demonstration Video](https://youtu.be/rBtxV1yKpGE)
+  [Demonstration Video](https://youtu.be/rBtxV1yKpGE)
 
   ![license badge](https://img.shields.io/badge/license-The%20Unlicense-green)  
 
